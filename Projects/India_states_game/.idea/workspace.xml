@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2243f8f1-9216-44d5-94f3-30cc5f56afd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/India_states_game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/India_map.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/india_all_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/us-states-game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../us-states-game/missing_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Study/Day25/.idea/Day25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Study/Day25/4.2 2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Study/Day25/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Study/Day25/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missing_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/missing_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../us-states-game/missing_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game/missing_states.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
